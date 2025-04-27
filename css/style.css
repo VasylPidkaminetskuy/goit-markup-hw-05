@@ -723,7 +723,8 @@ background-color: #404bbf;
   
 }
 
-.modal-close:hover .modal-close-svg {
+.modal-close:hover .modal-close-svg, 
+.modal-close:focus .modal-close-svg {
 
   fill: #ffffff;
 
