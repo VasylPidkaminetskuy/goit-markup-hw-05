@@ -809,10 +809,6 @@ header {
 .checkbox-container .modal-label {
   margin-bottom: 0;
 }
-.modal-label-checkbox {
-  display: flex;
-  align-items: center;
-}
 
 .modal-icon {
   fill: transparent;
